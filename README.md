@@ -1,5 +1,5 @@
 # MATLAB-Praat
-MATLAB-Praat Toolbox
+MATLAB-Praat TextGrid Toolbox
 
 This is a collection of MATLAB code for interacting with Praat and Praat TextGrid files.
 The filenames are mostly self-explainatory. 
